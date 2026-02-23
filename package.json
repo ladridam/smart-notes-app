@@ -2,6 +2,22 @@
   "name": "smart-notes-app",
   "version": "0.1.0",
   "private": true,
+  "description": "A smart notes application powered by Firebase and Google's Gemini AI (via Vertex AI). Built for the \"Supercharge your webapps using Firebase and Gemini\" demo session.",
+  "homepage": "https://github.com/debajit13/smart-notes-app#readme",
+  "bugs": {
+    "url": "https://github.com/debajit13/smart-notes-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debajit13/smart-notes-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
